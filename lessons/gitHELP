@@ -2,6 +2,10 @@ git config --global user.email "ваш имайд": сохраняет  данн
 git config --global user.name "ваш никнейм в гитхабе": сохраняет данные о вас
 git init: связываает гит с вашим проектссылка на ваш репозиторий: связывает ваш проект с репозиторием
 всегда
-git add
+git addma
 
 git commit -m "lesson1.py"
+git push origin master
+git rm --cached namefile : удалить файл
+git rm --cached
+git rm --cached -r namefile
